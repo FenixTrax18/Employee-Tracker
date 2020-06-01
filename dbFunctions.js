@@ -1,4 +1,3 @@
-//import MySQL module
 const MySQL = require ("mysql");
 const Department = require("./lib/departmentClass");
 const Role = require("./lib/roleClass");
